@@ -38,9 +38,7 @@ Input example, the program compares the inputs with the conditions set for the i
 * (email ==='')
 * (message ==='')
 
-  triangle equilateral , iscosceles , scalene
-True value is output. Output example: **This is equilateral triangle.<br/>
-True value is output. Output example: **This an isosceles triangle!** &nbsp If your triangle is isosceles.  
+True value is output. Output example: **Thank you for reaching to us , your message has been received.  
 
 **Example**
 * side1 input -- 10
