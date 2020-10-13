@@ -31,9 +31,6 @@ Enter name , email address
      Input Example 'Chemu' , 'chemunicole@gmail.com)
      Output example Hello  Chemu , we have received your message thank you fr reach to us!'
 
-* Select triangle 
-    Input example Equilateral
-    output Equilateral
 
 Submit.
 Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid details..
