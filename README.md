@@ -50,6 +50,7 @@ True value is output. Output example: **This an isosceles triangle!** &nbsp If y
 
 ## Known Bugs
 * Some output are not as accurate as expected..
+* mail chimp does not work properly..
 
 ## GH link: https://felistus-chemutai.github.io/Triangle-Tracker/.
 
