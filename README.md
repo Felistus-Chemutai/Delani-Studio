@@ -5,7 +5,7 @@
 [Felistus Chemutai](https://github.com/Felistus-Chemutai/Triangle-Tracker.git)
 
 ## Description
-The Triangle tracker is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.The application takes the value that are inputed and thus tells whether the the values are for a given triangle or not.
+Delani studio is a well known platform where we offer design courses and allow designers to display their designs and they designs get tested and evaluated to meet the current market needs.
 
 
 ## Installation / Setup instruction
