@@ -34,8 +34,10 @@ Enter name , email address
 
 Submit.
 Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid details..
-* (a===b)(b===c)(a===c)
-* (a===b && a!==c)(b===c && b!==a)(a===c && !==b)
+* (name==='')
+* (email ==='')
+* (message ==='')
+
   triangle equilateral , iscosceles , scalene
 True value is output. Output example: **This is equilateral triangle.<br/>
 True value is output. Output example: **This an isosceles triangle!** &nbsp If your triangle is isosceles.  
