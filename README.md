@@ -52,7 +52,7 @@ True value is output. Output example: **Thank you for reaching to us , your mess
 * Some output are not as accurate as expected..
 * mail chimp does not work properly..
 
-## GH link: https://felistus-chemutai.github.io/Triangle-Tracker/.
+## GH link: https://felistus-chemutai.github.io/Delani Studio/.
 
 ## Contact Information 
 
