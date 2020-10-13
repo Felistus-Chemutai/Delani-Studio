@@ -120,8 +120,8 @@
   padding-bottom: 20px;
   font-family: 'Gabriela', serif;
 } */
-input[type=text],
-input[type=email],
+/* name[type=text],
+email[type=email], */
 #comment {
   background: transparent;
   color: white;
