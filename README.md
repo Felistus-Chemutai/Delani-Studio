@@ -11,9 +11,9 @@ The Triangle tracker is an application that will help us know whether a triangle
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Felistus-Chemutai/Triangle-Tracker.git```
+* git clone ```https://github.com/Felistus-Chemutai/Delani Studio.git```
 
-* cd Triangle-Tracker
+* cd Delani Studio
 
 * code . or atom . based on the text editor you have.
 
@@ -52,7 +52,7 @@ True value is output. Output example: **Thank you for reaching to us , your mess
 * Some output are not as accurate as expected..
 * mail chimp does not work properly..
 
-## GH link: https://felistus-chemutai.github.io/Delani Studio/.
+## GH link: https://felistus-chemutai.github.io/Delani Studio.git/.
 
 ## Contact Information 
 
