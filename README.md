@@ -27,9 +27,9 @@ The Triangle tracker is an application that will help us know whether a triangle
 * JQuery
 
 ## BDD
-Enter triangle's side
-     Input Example 15
-     Output example 15
+Enter name , email address
+     Input Example 'Chemu' , 'chemunicole@gmail.com)
+     Output example Hello  Chemu , we have received your message thank you fr reach to us!'
 
 * Select triangle 
     Input example Equilateral
