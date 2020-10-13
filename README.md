@@ -41,12 +41,12 @@ Input example, the program compares the inputs with the conditions set for the i
 True value is output. Output example: **Thank you for reaching to us , your message has been received.  
 
 **Example**
-* side1 input -- 10
-* side2 input   -- 10
-* side3 input  -- 10
+* email input --Chemunicole@gmail.com
+* name input   -- Chemutai Kirui
+* message input  -- 'I  would like to know more'
 
-* triangle -- equilateral selected,
-**Expected output is *This is an equilateral triangle!*** 
+
+***Expected output is *Felistus' consultancy update*** Thank you for reaching out to Delani Studio. 
 
 ## Known Bugs
 * Some output are not as accurate as expected..
